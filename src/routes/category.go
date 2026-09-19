@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/schweigerjonas/ohm/src/models"
+	"github.com/arandoron/ohm/src/models"
 
 	"github.com/gofiber/fiber/v2"
 )

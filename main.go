@@ -5,8 +5,8 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/template/html/v2"
-	"github.com/schweigerjonas/ohm/src/db"
-	"github.com/schweigerjonas/ohm/src/routes"
+	"github.com/arandoron/ohm/src/db"
+	"github.com/arandoron/ohm/src/routes"
 )
 
 func main() {

@@ -1,4 +1,4 @@
-module github.com/schweigerjonas/ohm
+module github.com/arandoron/ohm
 
 go 1.24.1
 
